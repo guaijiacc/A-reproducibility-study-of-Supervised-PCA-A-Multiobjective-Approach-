@@ -27,13 +27,13 @@ Experiments are conducted on multiple regression and classification datasets to 
 ## Repository Structure
 
     .
-    ├── report/                        # Final project report
+    ├── EECS_553_Project_Report_Fall24.pdf                        # Final project report
     │
-    ├── code_data_preprocessing/       # Data loading, normalization, and splitting
+    ├── code_data_preprocessing/                                  # Data loading, normalization, and splitting
     │
-    ├── code_Barshan&kBarshan_method/  # Barshan SPCA and kernel Barshan SPCA
+    ├── code_Barshan&kBarshan_method/                             # Barshan SPCA and kernel Barshan SPCA
     │
-    ├── code_LSPCA&LRPCA/              # Multi-objective SPCA (LSPCA / LRPCA)
+    ├── code_LSPCA&LRPCA/                                         # Multi-objective SPCA (LSPCA / LRPCA)
     │
     └── README.md
 
