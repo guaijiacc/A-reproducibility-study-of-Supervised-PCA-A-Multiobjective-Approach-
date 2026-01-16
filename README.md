@@ -31,11 +31,10 @@ Experiments are conducted on multiple regression and classification datasets to 
     │
     ├── papers                                                    # Literature reviews
     │
-    ├── code/data_preprocessing/                                  # Data loading, normalization, and splitting
-    │
-    ├── code/Barshan&kBarshan_method/                             # Barshan SPCA and kernel Barshan SPCA
-    │
-    ├── code/LSPCA&LRPCA/                                         # Multi-objective SPCA (LSPCA / LRPCA)
+    ├── code
+    │   └── data_preprocessing/                                   # Data loading, normalization, and splitting
+    │   └── code/Barshan&kBarshan_method/                         # Barshan SPCA and kernel Barshan SPCA
+    │   └── code/LSPCA&LRPCA/                                     # Multi-objective SPCA (LSPCA / LRPCA)
     │
     └── README.md
 
